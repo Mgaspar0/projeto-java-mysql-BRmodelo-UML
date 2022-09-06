@@ -1,0 +1,31 @@
+.button {
+ text-transform: lowercase;
+ font-weight: 500;
+ padding-left: 1.4rem;
+ padding-right: 1.4rem;
+}
+
+h4:hover{
+text-decoration-line:underline
+
+}
+
+.button-primay {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.button-primay {
+    background-color: var(--primary-dark);
+    border-color: var (--primary-dark);
+}   
+
+.button-primay-outline {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.button-primay-outline:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}
